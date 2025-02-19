@@ -39,6 +39,7 @@ For this application, we used a machine learning process which starts with gathe
 
 The first thing that was apparent from the provided data was that it was not clean, it had missing values and some of the values were not realistic for used cars, for example, odometer with zero and single digit values; price with zero and single digits values.
 
+The dataset contains 426,880 entries and 18 columns, including key attributes like price, year, manufacturer, model, condition, odometer reading, fuel type, and transmission. However, there are missing values in several columns, especially condition, cylinders, size, and VIN.
 
 As you can see from the Diagram above, there are car prices with zero value for all conditions.
 
